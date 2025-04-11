@@ -8,5 +8,8 @@
 - 🧮 [Graph Algorithms](https://leetcode.com/discuss/post/1326900/graph-algorithms-problems-to-practice-by-9u6j/)
 - 🧩 [DP Pattern 1](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/)
 - 🧠 [DP Pattern 2](https://leetcode.com/discuss/post/662866/dp-for-beginners-problems-patterns-sampl-atdb/)
+- 🪟 [Sliding Window](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+- 🔍 [Binary Search](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
+
 
 
