@@ -11,7 +11,4 @@
 - 🪟 [Sliding Window](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
 - 🔍 [Binary Search](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
 - 🖲️ [2 Pointer](https://leetcode.com/discuss/post/1688903/solved-all-two-pointers-problems-in-100-z56cn/)
-
-
-
-
+- 🧱 [Monotonic Stack](https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/)
