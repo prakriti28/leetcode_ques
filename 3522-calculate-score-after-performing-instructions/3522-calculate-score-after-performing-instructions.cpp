@@ -6,18 +6,14 @@ public:
         long long score = 0;
         vector<int> visited(values.size(), -1);
         while (index >= 0 and index < values.size()) {
-            // cout << index << endl;
             if (visited[index] >=1 or index >= values.size())
                 return score;
+                visited[index]=1;
             if (instructions[index] == "jump") {
                 index = index + values[index];
-                    if (index < values.size())
-                    visited[index]++;
 
             } else if (instructions[index] == "add") {
                 score += 1ll*values[index];
-                if (index < values.size())
-                    visited[index]++;
                 index++;
             }
         }
