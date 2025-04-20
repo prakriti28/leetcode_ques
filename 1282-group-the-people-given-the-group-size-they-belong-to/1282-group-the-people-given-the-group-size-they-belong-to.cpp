@@ -9,11 +9,10 @@ public:
         }
         vector<vector<int>> res;
         for (auto it : mp) {
-           
-            cout<<it.second.size() / it.first<<endl;
-            for (int i = 0; i<it.second.size() / it.first; i++) {
-                 vector<int> temp;
-                for (int j = it.first*i; j < it.first*i+it.first; j++) {
+
+            for (int i = 0; i < it.second.size() / it.first; i++) {
+                vector<int> temp;
+                for (int j = it.first * i; j < it.first * i + it.first; j++) {
                     temp.push_back(it.second[j]);
                 }
                 res.push_back(temp);
