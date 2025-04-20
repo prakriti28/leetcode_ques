@@ -7,7 +7,6 @@ public:
         for (int i = 0; i < groupSizes.size(); i++) {
 
             mp[groupSizes[i]].push_back(i);
-            cout<<mp[groupSizes[i]].size();
             if(mp[groupSizes[i]].size()==groupSizes[i]){
                 res.push_back(mp[groupSizes[i]]);
                 mp[groupSizes[i]].clear();
