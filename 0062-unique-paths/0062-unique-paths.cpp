@@ -8,7 +8,10 @@ public:
                 if (i == 0 or j == 0)
                     dp[i][j] = 1;
                 else {
-                    dp[i][j] = dp[i - 1][j] + dp[i][j - 1];
+                    int up = 0, left = 0;
+                    up = dp[i - 1][j];
+                    left = dp[i][j - 1] ;
+                    dp[i][j] = up + left;
                 }
             }
         }
