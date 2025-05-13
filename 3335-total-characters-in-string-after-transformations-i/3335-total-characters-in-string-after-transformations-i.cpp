@@ -11,7 +11,7 @@ public:
             vector<long long> tmp(26, 0);
             for (int i = 0; i < 26; i++) {
                 if (char(i + 'a') != 'z') {
-                    tmp[i + 1] = (tmp[i + 1] + freq[i]) % MOD;
+                    tmp[i + 1] = (freq[i]) % MOD;
                 } else {
                     tmp[0] = (tmp[0] + freq[i]) % MOD;
                     tmp[1] = (tmp[1] + freq[i]) % MOD;
