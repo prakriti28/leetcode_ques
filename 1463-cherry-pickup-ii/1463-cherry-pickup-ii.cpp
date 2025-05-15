@@ -37,9 +37,6 @@ public:
         int m = grid[0].size();
         vector<vector<vector<int>>> dp(
             n, vector < vector<int>>(m, vector<int>(m, -1)));
-    //     vector<vector<vector<int>>> dp(
-    // n, vector<vector<int>>(m, vector<int>(m, -1)));
-
         return helper(0, 0, m - 1, grid, dp);
     }
 };
