@@ -21,7 +21,6 @@ public:
         int mn = INT_MAX;
 
         for (int i = 0; i < temp.size(); i++) {
-            cout << i << temp[i] << endl;
             if (i == temp[i]) {
                 mn = min(mn, i);
             }
