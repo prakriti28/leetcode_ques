@@ -11,8 +11,8 @@ private:
         if (in.size() == 0 or target < 0)
             return;
 
-        int val = in[0];              // store before erasing
-        vector<int> in2 = in;         // full copy for the include case
+        int val = in[0];            
+        vector<int> in2 = in;
         in.erase(in.begin());    
         if (val <= target) {
             op.push_back(val);
