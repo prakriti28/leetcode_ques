@@ -19,9 +19,10 @@ public:
                 }
                 i++;
             }
+            maxFruits = max(j-i+1,maxFruits);
 
             j++;
         }
-        return j - i;
+        return maxFruits;
     }
 };
