@@ -7,6 +7,7 @@ public:
 
         q.push(0);
         vis[0] = 1;
+        int visited = 1;
 
         while (!q.empty()) {
             int node = q.front();
@@ -16,15 +17,12 @@ public:
                 if (!vis[it]) {
                     q.push(it);
                     vis[it] = 1;
+                    visited++;
                 }
             }
         }
 
-        for (int i = 0; i < vis.size(); i++) {
-            if (!vis[i]) {
-                return false;
-            }
-        }
-        return true;
+
+        return visited==n;
     }
 };
