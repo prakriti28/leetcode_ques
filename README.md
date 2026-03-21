@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -26,5 +27,10 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->
