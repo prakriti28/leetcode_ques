@@ -10,7 +10,7 @@ public:
         for (int i = x; i < x + k; i++) {
             for (int j = y; j < y + k; j++) {
 
-                grid[i][j] = temp[x + k - 1 - (i - x)][j];
+                grid[i][j] = temp[x + (k+x-i-1)][j];
             }
             cout << endl;
         }
