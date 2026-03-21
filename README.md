@@ -12,3 +12,19 @@
 - 🔍 [Binary Search](https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-t-rwv8/)
 - 🖲️ [2 Pointer](https://leetcode.com/discuss/post/1688903/solved-all-two-pointers-problems-in-100-z56cn/)
 - 🧱 [Monotonic Stack](https://leetcode.com/discuss/post/2347639/a-comprehensive-guide-and-template-for-m-irii/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+<!---LeetCode Topics End-->
