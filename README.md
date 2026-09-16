@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/prakriti28/leetcode_ques/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -48,6 +49,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/prakriti28/leetcode_ques/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
