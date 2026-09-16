@@ -32,13 +32,19 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prakriti28/leetcode_ques/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prakriti28/leetcode_ques/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
