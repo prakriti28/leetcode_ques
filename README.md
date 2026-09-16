@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/prakriti28/leetcode_ques/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/prakriti28/leetcode_ques/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -79,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
