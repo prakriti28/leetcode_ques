@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prakriti28/leetcode_ques/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -64,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
