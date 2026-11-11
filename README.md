@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/prakriti28/leetcode_ques/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -31,6 +32,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
