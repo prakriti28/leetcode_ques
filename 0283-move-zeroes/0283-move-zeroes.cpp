@@ -6,11 +6,8 @@ public:
         int n = nums.size();
         while(i<n && j<n){
 
-            if(nums[j]!=0 && nums[i]==0){
+            if(nums[j]!=0){
                 swap(nums[i],nums[j]);
-                i++;
-            }
-            else if(nums[i]!=0){
                 i++;
             }
             j++;
