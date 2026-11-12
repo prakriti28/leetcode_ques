@@ -32,6 +32,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/prakriti28/leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/prakriti28/leetcode_ques/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/prakriti28/leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prakriti28/leetcode_ques/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Simulation
