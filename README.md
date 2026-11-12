@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0697-degree-of-an-array](https://github.com/prakriti28/leetcode_ques/tree/main/0697-degree-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -71,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/prakriti28/leetcode_ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0697-degree-of-an-array](https://github.com/prakriti28/leetcode_ques/tree/main/0697-degree-of-an-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
