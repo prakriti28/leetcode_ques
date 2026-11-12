@@ -2,7 +2,7 @@ class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
 
-        map<int, vector<int>> mp;
+        unordered_map<int, vector<int>> mp;
 
         int degree = 0;
         int len = INT_MAX;
