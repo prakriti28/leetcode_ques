@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0697-degree-of-an-array](https://github.com/prakriti28/leetcode_ques/tree/main/0697-degree-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2446-determine-if-two-events-have-conflict](https://github.com/prakriti28/leetcode_ques/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/prakriti28/leetcode_ques/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prakriti28/leetcode_ques/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -60,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/prakriti28/leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prakriti28/leetcode_ques/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2446-determine-if-two-events-have-conflict](https://github.com/prakriti28/leetcode_ques/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
