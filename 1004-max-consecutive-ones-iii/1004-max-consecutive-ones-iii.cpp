@@ -8,21 +8,15 @@ public:
         int res = 0;
 
         while (j < n) {
-            if (nums[j] == 1) {
-                cnt1++;
-
-            } else {
+            if (nums[j] == 0) {
                 cnt0++;
             }
 
             if (cnt0 <= k) {
-                res = max(cnt1 + cnt0, res);
-            } 
-            while(cnt0>k) {
-                if (nums[i] == 1) {
-                    cnt1--;
-                }
-                else{
+                res = max(j - i + 1, res);
+            }
+            if (cnt0 > k) {
+                if (nums[i] == 0) {
                     cnt0--;
                 }
                 i++;
