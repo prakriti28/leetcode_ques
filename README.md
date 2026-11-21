@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/prakriti28/leetcode_ques/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/prakriti28/leetcode_ques/tree/main/0697-degree-of-an-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/prakriti28/leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/prakriti28/leetcode_ques/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prakriti28/leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/prakriti28/leetcode_ques/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Depth-First Search
@@ -121,6 +123,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/prakriti28/leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -130,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakriti28/leetcode_ques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prakriti28/leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
