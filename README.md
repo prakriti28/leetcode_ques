@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/prakriti28/leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prakriti28/leetcode_ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/prakriti28/leetcode_ques/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0697-degree-of-an-array](https://github.com/prakriti28/leetcode_ques/tree/main/0697-degree-of-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/prakriti28/leetcode_ques/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
