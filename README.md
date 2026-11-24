@@ -64,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/prakriti28/leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/prakriti28/leetcode_ques/tree/main/0242-valid-anagram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prakriti28/leetcode_ques/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/prakriti28/leetcode_ques/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/prakriti28/leetcode_ques/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
