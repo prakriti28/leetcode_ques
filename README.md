@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prakriti28/leetcode_ques/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/prakriti28/leetcode_ques/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/prakriti28/leetcode_ques/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prakriti28/leetcode_ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prakriti28/leetcode_ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -38,6 +39,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/prakriti28/leetcode_ques/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/prakriti28/leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/prakriti28/leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/prakriti28/leetcode_ques/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -129,6 +131,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/prakriti28/leetcode_ques/tree/main/0011-container-with-most-water/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakriti28/leetcode_ques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
